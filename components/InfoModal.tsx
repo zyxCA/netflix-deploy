@@ -4,7 +4,7 @@ import { XMarkIcon } from "@heroicons/react/24/outline";
 import PlayButton from "@/components/PlayButton";
 import FavoriteButton from "@/components/FavoriteButton";
 import useMovie from "@/hooks/useMovie";
-import useInfoModal from "@/hooks/useinfoModal";
+import useInfoModal from "@/hooks/useInfoModal";
 
 interface InfoModalProps {
   visible?: boolean;
